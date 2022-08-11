@@ -1814,29 +1814,6 @@ section.lazy-placeholder:after {
 .cid-qVNMoufsDs LABEL {
   color: #fafafa;
 }
-.cid-tebRSRWR8R {
-  background: #ffffff;
-}
-.cid-tebRSRWR8R .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-tebRSRWR8R .mbr-figure {
-  margin: 0 auto;
-}
-.cid-tebRSRWR8R figcaption {
-  position: relative;
-}
-.cid-tebRSRWR8R figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-tebRSRWR8R .image-block {
-    width: 100% !important;
-  }
-}
 .cid-rPOKA00kia {
   padding-top: 120px;
   padding-bottom: 120px;
