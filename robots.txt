@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /sitemap.htm
+Sitemap: https://minimercadoferreira.github.io/sitemap.xml
+
+
+
+
