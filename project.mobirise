@@ -80,7 +80,7 @@
       "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
       "textButton": "Agree"
     },
-    "mbrsiteDomain": "sbphjcqlxn",
+    "mbrsiteDomain": "eboye511m4",
     "witsec-mailform": true,
     "witsec-mailform-to": "minimercadoferreira74@gmail.com",
     "witsec-mailform-from": "antonioj@gmail.com",
@@ -102,8 +102,8 @@
         "main": true,
         "title": "Minimercado Ferreira - Perto de si",
         "meta_descr": "Comércio de proximidade qualidade, deste 1978. Rua de Saragoça 2 Coimbra",
-        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-NFKDVNR');</script>\n<!-- End Google Tag Manager -->",
-        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-NFKDVNR\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
+        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-507NRB692E\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-507NRB692E');\n</script>",
+        "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/img-8431-478x490.jpeg"
       },
@@ -905,7 +905,8 @@
       "settings": {
         "meta_descr": "Contacte o Minimercado Ferreira - vegetais e fruta fresca, selecção de artigos de conveniência - perto de si. Rua de Saragoça 2 Coimbra",
         "title": "Minimercado Ferreira - Contactos",
-        "order": 4
+        "order": 4,
+        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-507NRB692E\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-507NRB692E');\n</script>"
       },
       "components": [
         {
@@ -1376,7 +1377,8 @@
       "settings": {
         "meta_descr": "Descobri o jejum Intermitente através do meu irmão e de um amigo. Comecei em novembro de 2018, e a partir daí a minha vida nunca mais foi a mesma. Mas pouca gente sabe...",
         "title": "Minimercado Ferreira - Sobre nós",
-        "order": 1
+        "order": 1,
+        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-507NRB692E\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-507NRB692E');\n</script>"
       },
       "components": [
         {
