@@ -46,7 +46,7 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 134,
     "versionPublish": "5.6.11",
-    "robotsText": "User-agent: *\nAllow: /\nAllow: /sitemap.htm\nSitemap: https://minimercadoferreira.github.io/sitemap.xml\n\n\n\n\n",
+    "robotsText": "User-agent: *\nAllow: /\nAllow: /sitemap.htm\nSitemap: https://minimercadoferreira.github.io/sitemap.xml\n\n\n\n\n\n",
     "robotsSwitcher": "on",
     "siteUrl": "https://minimercadoferreira.github.io",
     "sitemapSwitcherAuto": "on",
@@ -80,7 +80,7 @@
       "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
       "textButton": "Agree"
     },
-    "mbrsiteDomain": "eboye511m4",
+    "mbrsiteDomain": "z0z6zo67mw",
     "witsec-mailform": true,
     "witsec-mailform-to": "minimercadoferreira74@gmail.com",
     "witsec-mailform-from": "antonioj@gmail.com",
